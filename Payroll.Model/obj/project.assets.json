@@ -2001,8 +2001,8 @@
     },
     "Payroll.Core/1.0.0": {
       "type": "project",
-      "path": "../NetCore6.Core/Payroll.Core.csproj",
-      "msbuildProject": "../NetCore6.Core/Payroll.Core.csproj"
+      "path": "../Payroll.Core/Payroll.Core.csproj",
+      "msbuildProject": "../Payroll.Core/Payroll.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2020,11 +2020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Model\\Payroll.Model.csproj",
+      "projectUniqueName": "D:\\Development\\Base-Template-main\\Payroll.Model\\Payroll.Model.csproj",
       "projectName": "Payroll.Model",
-      "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Model\\Payroll.Model.csproj",
+      "projectPath": "D:\\Development\\Base-Template-main\\Payroll.Model\\Payroll.Model.csproj",
       "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\Base-Template-main\\NetCore6.Model\\obj\\",
+      "outputPath": "D:\\Development\\Base-Template-main\\Payroll.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2045,8 +2045,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj": {
-              "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj"
+            "D:\\Development\\Base-Template-main\\Payroll.Core\\Payroll.Core.csproj": {
+              "projectPath": "D:\\Development\\Base-Template-main\\Payroll.Core\\Payroll.Core.csproj"
             }
           }
         }

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Base-Template-main\\NetCore6\\NetCore6.csproj": {}
+    "D:\\Development\\Base-Template-main\\Payroll\\NetCore6.csproj": {}
   },
   "projects": {
     "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj": {
@@ -288,14 +288,14 @@
         }
       }
     },
-    "D:\\Development\\Base-Template-main\\NetCore6\\NetCore6.csproj": {
+    "D:\\Development\\Base-Template-main\\Payroll\\NetCore6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6\\NetCore6.csproj",
+        "projectUniqueName": "D:\\Development\\Base-Template-main\\Payroll\\NetCore6.csproj",
         "projectName": "NetCore6",
-        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6\\NetCore6.csproj",
+        "projectPath": "D:\\Development\\Base-Template-main\\Payroll\\NetCore6.csproj",
         "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Base-Template-main\\NetCore6\\obj\\",
+        "outputPath": "D:\\Development\\Base-Template-main\\Payroll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

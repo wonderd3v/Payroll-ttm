@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj": {}
+    "D:\\Development\\Base-Template-main\\Payroll.Core\\NetCore6.Core.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj": {
+    "D:\\Development\\Base-Template-main\\Payroll.Core\\NetCore6.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj",
+        "projectUniqueName": "D:\\Development\\Base-Template-main\\Payroll.Core\\NetCore6.Core.csproj",
         "projectName": "NetCore6.Core",
-        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj",
+        "projectPath": "D:\\Development\\Base-Template-main\\Payroll.Core\\NetCore6.Core.csproj",
         "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\obj\\",
+        "outputPath": "D:\\Development\\Base-Template-main\\Payroll.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

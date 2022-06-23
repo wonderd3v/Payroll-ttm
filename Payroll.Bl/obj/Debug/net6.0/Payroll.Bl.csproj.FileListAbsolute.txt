@@ -1,0 +1,17 @@
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.csproj.AssemblyReference.cache
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.AssemblyInfoInputs.cache
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.AssemblyInfo.cs
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.csproj.CoreCompileInputs.cache
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Bl.deps.json
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Bl.dll
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Bl.pdb
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Core.dll
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Model.dll
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Model.pdb
+D:\Development\Base-Template-main\Payroll.Bl\bin\Debug\net6.0\Payroll.Core.pdb
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.csproj.CopyComplete
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.dll
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\refint\Payroll.Bl.dll
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\Payroll.Bl.pdb
+D:\Development\Base-Template-main\Payroll.Bl\obj\Debug\net6.0\ref\Payroll.Bl.dll

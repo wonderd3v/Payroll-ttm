@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\Base-Template-main\\NetCore6.Services\\NetCore6.Services.csproj": {}
+    "D:\\Development\\Base-Template-main\\Payroll.Services\\NetCore6.Services.csproj": {}
   },
   "projects": {
-    "D:\\Development\\Base-Template-main\\NetCore6.Bl\\Payroll.Bl.csproj": {
+    "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\Payroll.Bl.csproj",
-        "projectName": "Payroll.Bl",
-        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\Payroll.Bl.csproj",
+        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj",
+        "projectName": "NetCore6.Bl",
+        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj",
         "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
         "outputPath": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\obj\\",
         "projectStyle": "PackageReference",
@@ -80,12 +80,12 @@
         }
       }
     },
-    "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj": {
+    "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj",
-        "projectName": "Payroll.Core",
-        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj",
+        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj",
+        "projectName": "NetCore6.Core",
+        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj",
         "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
         "outputPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -176,8 +176,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj": {
-                "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\Payroll.Core.csproj"
+              "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj": {
+                "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Core\\NetCore6.Core.csproj"
               }
             }
           }
@@ -226,14 +226,14 @@
         }
       }
     },
-    "D:\\Development\\Base-Template-main\\NetCore6.Services\\NetCore6.Services.csproj": {
+    "D:\\Development\\Base-Template-main\\Payroll.Services\\NetCore6.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\Base-Template-main\\NetCore6.Services\\NetCore6.Services.csproj",
+        "projectUniqueName": "D:\\Development\\Base-Template-main\\Payroll.Services\\NetCore6.Services.csproj",
         "projectName": "NetCore6.Services",
-        "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Services\\NetCore6.Services.csproj",
+        "projectPath": "D:\\Development\\Base-Template-main\\Payroll.Services\\NetCore6.Services.csproj",
         "packagesPath": "C:\\Users\\hmexs\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\Base-Template-main\\NetCore6.Services\\obj\\",
+        "outputPath": "D:\\Development\\Base-Template-main\\Payroll.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -254,8 +254,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Development\\Base-Template-main\\NetCore6.Bl\\Payroll.Bl.csproj": {
-                "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\Payroll.Bl.csproj"
+              "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj": {
+                "projectPath": "D:\\Development\\Base-Template-main\\NetCore6.Bl\\NetCore6.Bl.csproj"
               }
             }
           }
